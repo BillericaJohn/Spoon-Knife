@@ -1,2 +1,2 @@
-Edit from github2
+resolved
 Yet another
